@@ -1,22 +1,175 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Document</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+    <meta charset="UTF-8">
+    <title>CandyMuj Stars</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+    <meta name="description" content="Description">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+    <style>
+        /*滚动条样式 start*/
+        /* 滚动条宽度 */
+        ::-webkit-scrollbar {
+            width: 5px;
+        }
+
+        /* 滚动条颜色 */
+        ::-webkit-scrollbar-thumb {
+            background: #33a9dc;
+            background-image: linear-gradient(#6ecd56, #33a9dc, #cb6196, #c16290);
+            border-radius: 2em;
+        }
+
+        .comment {
+            width: 50px;
+            height: 750px;
+            top: 250px;
+            /* background-color: #483957; */
+            transition: width .5s, background-color .2s;
+            overflow: auto;
+            /* z-index: 99; */
+        }
+
+        .comment:hover {
+            width: 450px;
+            cursor: pointer;
+        }
+
+        .a1 {
+            position: fixed;
+            right: 5px;
+            top: 250px;
+            float: right;
+        }
+    </style>
 </head>
 <body>
-  <div id="app"></div>
-  <script>
+<div id="app"></div>
+<script>
     window.$docsify = {
-      name: '',
-      repo: ''
+        // 文档标题，会显示在侧边栏顶部。
+        name: 'CandyMuj Stars',
+        // 在侧边栏中出现的网站图标，你可以使用 CSS 来更改大小
+        //logo: '',
+        repo: 'https://github.com/CandyMuj/Stars',
+        // 设置侧边栏
+        //loadSidebar: true,
+        // 设置导航栏
+        //loadNavbar: true,
+        // 切换页面后是否自动跳转到页面顶部
+        auto2top: true,
+        // 设置封面
+        coverpage: true,
+        alias: {
+            '/.*/_sidebar.md': '/_sidebar.md'
+        },
+        // 完整配置参数
+        search: {
+            maxAge: 86400000,// 过期时间,单位毫秒,默认一天
+            paths: [], // or 'auto'
+            placeholder: '❓请输入搜索关键字',
+            noData: '没有搜到',
+            depth: 2
+        },
+        // 字数统计
+        count: {
+            countable: true,
+            fontsize: '0.9em',
+            color: 'rgb(90,90,90)',
+            language: 'chinese'
+        },
+        // 阅读进度条插件
+        progress: {
+            position: "top",
+            color: "let(--theme-color,#42b983)",
+            height: "3px",
+        },
+        // 上次修改时间
+        timeUpdater: {
+            text: ">最后更新时间: {docsify-updated}",
+            formatUpdated: "{YYYY}/{MM}/{DD}",
+            whereToPlace: "bottom",  // "top" or "bottom", default to "bottom"
+        },
+        // 回到顶部
+        scrollToTop: {
+            auto: true,
+            text: '🔝',
+            icon: 'arrow-up-2',
+            right: 15,
+            bottom: 15,
+            width: 50,
+            height: 40,
+            offset: 500
+        },
+        // 页脚
+        footer: {
+            copy: '<span id="sitetime"></span><br/><span>Copyright &copy; 2024 - 至今</span>',
+            auth: '<a href="https://github.com/CandyMuj/Stars" target="_blank">⭐ CandyMuj Stars </a>',
+            pre: '<hr/>',
+            style: 'text-align: left;',
+        },
+        linkpreview: {
+            key: "85c990d7181bfdbed6f22006596c6109",
+        },
     }
-  </script>
-  <!-- Docsify v4 -->
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+</script>
+<script>
+    <!-- 运行时间统计 -->
+    function siteTime() {
+        window.setTimeout("siteTime()", 1000);
+        let seconds = 1000;
+        let minutes = seconds * 60;
+        let hours = minutes * 60;
+        let days = hours * 24;
+        let years = days * 365;
+        let today = new Date();
+        let todayYear = today.getFullYear();
+        let todayMonth = today.getMonth() + 1;
+        let todayDate = today.getDate();
+        let todayHour = today.getHours();
+        let todayMinute = today.getMinutes();
+        let todaySecond = today.getSeconds();
+        /* Date.UTC() -- 返回date对象距世界标准时间(UTC)1970年1月1日午夜之间的毫秒数(时间戳)
+        year - 作为date对象的年份，为4位年份值
+        month - 0-11之间的整数，做为date对象的月份
+        day - 1-31之间的整数，做为date对象的天数
+        hours - 0(午夜24点)-23之间的整数，做为date对象的小时数
+        minutes - 0-59之间的整数，做为date对象的分钟数
+        seconds - 0-59之间的整数，做为date对象的秒数
+        microseconds - 0-999之间的整数，做为date对象的毫秒数 */
+        let t1 = Date.UTC(2024, 4, 24, 0, 0, 0); //北京时间2020-02-10 00:00:00
+        let t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
+        let diff = t2 - t1;
+        let diffYears = Math.floor(diff / years);
+        let diffDays = Math.floor((diff / days) - diffYears * 365);
+        let diffHours = Math.floor((diff - (diffYears * 365 + diffDays) * days) / hours);
+        let diffMinutes = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours) / minutes);
+        let diffSeconds = Math.floor((diff - (diffYears * 365 + diffDays) * days - diffHours * hours - diffMinutes * minutes) / seconds);
+        document.getElementById("sitetime").innerHTML = " 本网站已运行 " + diffYears + " 年 " + diffDays + " 天 " + diffHours + " 小时 " + diffMinutes + " 分钟 " + diffSeconds + " 秒 ";
+    }
+
+    siteTime();
+</script>
+<!-- Docsify v4 -->
+<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+<!-- search 插件-->
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+<!-- emoji 插件-->
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+<!-- 字数统计 插件-->
+<script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+<!-- 阅读进度条 插件-->
+<script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
+<!-- 上次修改时间 插件-->
+<script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+<!-- 回到顶部 插件-->
+<script src="//unpkg.com/@zhg-x/docsify-plugins@1.0.2/src/scroll-to-top.js"></script>
+<!-- 页脚 插件-->
+<script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+<!-- 访问量统计 插件-->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+<!-- 图片放大 插件-->
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 </body>
 </html>
