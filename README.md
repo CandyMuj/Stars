@@ -1,4 +1,6 @@
 * `layui-vue/layui-vue` [一 套 Vue 3.0 的 桌 面 端 组 件 库-LayUi vue版](https://github.com/layui-vue/layui-vue)
+  * http://www.layui-vue.com/
+
 * `alyssaxuu/screenity` [Chrome插件，屏幕录像和标注工具](https://github.com/alyssaxuu/screenity)
 * `microsoft/garnet` [Redis替代品，比Redis性能更强的高性能分布式存储数据库](https://github.com/microsoft/garnet)
   * https://microsoft.github.io/garnet/
