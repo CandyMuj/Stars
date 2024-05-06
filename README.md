@@ -1,6 +1,26 @@
+* `GopeedLab/gopeed` [一款现代化的下载器 开源、轻量、原生，支持（HTTP、BitTorrent、Magnet 等）协议下载](https://github.com/GopeedLab/gopeed)
+  * https://gopeed.com/
+* `kuaifan/dootask` [项目协助工具 DooTask是一款轻量级开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全](https://github.com/kuaifan/dootask)
+  * https://www.dootask.com/
+* `MauriceNino/dashdot` [服务器监控仪表盘，探针](https://github.com/MauriceNino/dashdot)
+  * https://getdashdot.com/
+* `youzan/vant-weapp` [轻量、可靠的小程序 UI 组件库](https://github.com/youzan/vant-weapp)
+  * https://vant-ui.github.io/vant-weapp/
+* `Pridejoy/MalusAdmin` [海棠后台管理系统，基于Net7+Vue3+Soybean 开发的前后端分离式权限管理系统,采用最原生最简洁的方式来实现, 前端清新优雅高颜值，后端 结构清晰，优雅易懂，功能强大,提供快速开发的解决方案](https://gitee.com/Pridejoy/MalusAdmin)
+  * https://malus.dotnetshare.com/
+* `alibaba-damo-academy/FunASR` [语音识别工具包，包含丰富的性能优越的开源预训练模型，支持语音识别、语音端点检测、文本后处理等，具备服务部署能力](https://github.com/alibaba-damo-academy/FunASR)
+  * https://www.funasr.com/
+* `alibaba-damo-academy/FunClip` [自动视频剪辑工具 一款基于FunASR高准确率开源语音识别模型的智能视频剪辑工具](https://github.com/alibaba-damo-academy/FunClip)
+  * https://modelscope.cn/studios/iic/funasr_app_clipvideo/summary
+* `yaklang/yakit` [含抓包、劫持请求等高级功能 交互式应用安全测试平台-集成化单兵安全能力平台](https://github.com/yaklang/yakit)
+  * 应用示例可参考：微信-收藏-某学校小程序渗透测试
+  * https://yaklang.com/
+  * https://yaklang.io/products/intro/
+* `dromara/liteflow` [一个流程引擎 轻量、快速、稳定可编排的组件式规则引擎](https://github.com/dromara/liteflow)
+  * https://liteflow.cc/
+* `FuAdmin/fu-admin` [采用当前最流行的技术栈 Vben Vue Vue3 Python Django Ninja（Fast Api 和 Django的结合）开发的后端管理系统](https://github.com/FuAdmin/fu-admin)
 * `layui-vue/layui-vue` [一 套 Vue 3.0 的 桌 面 端 组 件 库-LayUi vue版](https://github.com/layui-vue/layui-vue)
   * http://www.layui-vue.com/
-
 * `alyssaxuu/screenity` [Chrome插件，屏幕录像和标注工具](https://github.com/alyssaxuu/screenity)
 * `microsoft/garnet` [Redis替代品，比Redis性能更强的高性能分布式存储数据库](https://github.com/microsoft/garnet)
   * https://microsoft.github.io/garnet/
@@ -12,7 +32,6 @@
 
 
 ---
-
 
 
 
@@ -30,6 +49,7 @@
 * `GitHubDaily/GitHubDaily` [GitHub开源项目收集](https://github.com/GitHubDaily/GitHubDaily)
 * `xtekky/gpt4free` [免费GPT4](https://github.com/xtekky/gpt4free)
 * `harry0703/MoneyPrinterTurbo` [利用AI生成高清短视频](https://github.com/harry0703/MoneyPrinterTurbo)
+* `FujiwaraChoki/MoneyPrinter` [AI生成短视频 MoneyPrinterTurbo基于此](https://github.com/FujiwaraChoki/MoneyPrinter)
 * `akazwz/smail` [临时邮箱服务](https://github.com/akazwz/smail)
 * `soulteary/webhook` [稳定靠谱的网络钩子，快速连接各种系统](https://github.com/soulteary/webhook)
 * `chansee97/nova-admin` [一个基于Vue3+Vite的管理系统前端模板](https://github.com/chansee97/nova-admin)
