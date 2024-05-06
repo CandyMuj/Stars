@@ -1,3 +1,5 @@
+* `zonemeen/musicn` [🎵 一个可播放及下载音乐的 Node.js 命令行工具 含web](https://github.com/zonemeen/musicn)
+* `wy580477/musicn-container` [播放及下载高品质音乐的命令行工具 musicn 容器](https://github.com/wy580477/musicn-container)
 * `GopeedLab/gopeed` [一款现代化的下载器 开源、轻量、原生，支持（HTTP、BitTorrent、Magnet 等）协议下载](https://github.com/GopeedLab/gopeed)
   * https://gopeed.com/
 * `kuaifan/dootask` [项目协助工具 DooTask是一款轻量级开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具；同时消息功能使用非对称加密技术让你的沟通更安全](https://github.com/kuaifan/dootask)
