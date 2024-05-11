@@ -10,37 +10,15 @@
     <style>
         /*滚动条样式 start*/
         /* 滚动条宽度 */
-        ::-webkit-scrollbar {
+        body::-webkit-scrollbar {
             width: 5px;
         }
 
         /* 滚动条颜色 */
-        ::-webkit-scrollbar-thumb {
+        body::-webkit-scrollbar-thumb {
             background: #33a9dc;
             background-image: linear-gradient(#6ecd56, #33a9dc, #cb6196, #c16290);
             border-radius: 2em;
-        }
-
-        .comment {
-            width: 50px;
-            height: 750px;
-            top: 250px;
-            /* background-color: #483957; */
-            transition: width .5s, background-color .2s;
-            overflow: auto;
-            /* z-index: 99; */
-        }
-
-        .comment:hover {
-            width: 450px;
-            cursor: pointer;
-        }
-
-        .a1 {
-            position: fixed;
-            right: 5px;
-            top: 250px;
-            float: right;
         }
     </style>
 </head>
