@@ -1,4 +1,56 @@
-* `zonemeen/musicn` [🎵 一个可播放及下载音乐的 Node.js 命令行工具 含web](https://github.com/zonemeen/musicn)
+* `Stirling-Tools/Stirling-PDF` [PDF编辑 查看等各种PDF操作的WEB程序](https://github.com/Stirling-Tools/Stirling-PDF)
+  * https://stirlingtools.com/
+
+* `apache/superset` [Apache开源的数据可视化和数据图表分析平台 日报、报表](https://github.com/apache/superset)
+  * https://superset.apache.org/
+  * [尾部含其他报表平台推荐 还有什么时候使用Grafana的说明](https://zhuanlan.zhihu.com/p/37507235)
+
+* `709343767/phoenix` [开源监控平台，主要用于监控应用程序、日志、服务器、数据库、网络、tcp端口和http接口，通过实时收集、汇聚和分析监控信息](https://github.com/709343767/phoenix)
+* `imputnet/cobalt` [抖音、哔哩哔哩、YouTube等视频平台链接解析下载，视频嗅探下载](https://github.com/imputnet/cobalt)
+  * https://cobalt.tools/
+
+* `bobohume/gonet` [go分布式服务器，基于内存mmo](https://github.com/bobohume/gonet)
+* `xiangyuecn/AreaCity-JsSpider-StatsGov` [省市区县乡镇三级或四级城市数据](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov)
+  * https://xiangyuecn.github.io/AreaCity-JsSpider-StatsGov/
+
+* `kakuilan/china_area_mysql` [中国5级行政区域mysql库](https://github.com/kakuilan/china_area_mysql)
+* `portainer/portainer` [Docker和K8s的可视化管理监控系统](https://github.com/portainer/portainer)
+  * https://www.portainer.io/
+  * https://zhuanlan.zhihu.com/p/403285855
+
+* `conda-forge/miniforge` [Anaconda替代品，更轻量](https://github.com/conda-forge/miniforge)
+  * https://conda-forge.org/miniforge
+
+* `lllyasviel/Fooocus` [AI 文生图](https://github.com/lllyasviel/Fooocus)
+  * https://www.fooocus.cc/model
+
+* `limedroid/XDroid` [轻量级Android快速开发框架](https://github.com/limedroid/XDroid)
+* `zblogcn/zblogphp` [一个简单的博客平台 Z-BlogPHP博客程序](https://github.com/zblogcn/zblogphp)
+  * https://www.zblogcn.com/
+
+* `ac-pm/SSLUnpinning_Xposed` [Xposed模块 ssl解锁，绕过ssl认证](https://github.com/ac-pm/SSLUnpinning_Xposed)
+* `reqable/reqable-app` [小黄鸟 HttpCanary 作者开发的替代品 新一代抓包网络调试工具](https://github.com/reqable/reqable-app)
+  * https://reqable.com/
+  * https://www.52pojie.cn/thread-1833856-1-1.html
+
+* `Laverna/laverna` [开源、在线的Web Markdown笔记系统](https://github.com/Laverna/laverna)
+  * https://laverna.cc/index.html
+
+* `umami-software/umami` [开源的网站分析统计系统，统计访客UV、浏览PV、用户来源、地区等网站指标 来自Google](https://github.com/umami-software/umami)
+  * https://umami.is/
+
+* `appium/appium` [也是安卓自动化，速度没有uiautomator2快](https://github.com/appium/appium)
+  * http://appium.io/docs/zh/latest/
+
+* `openatx/uiautomator2` [可用作连点器，安卓原生自动化](https://github.com/openatx/uiautomator2)
+* `zfoo-project/zfoo` [游戏服务器框架](https://github.com/zfoo-project/zfoo)
+* `dushixiang/next-terminal` [堡垒机 Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议](https://github.com/dushixiang/next-terminal)
+  * https://next-terminal.typesafe.cn/
+
+* `valkey-io/valkey` [Redis替代品](https://github.com/valkey-io/valkey)
+  * https://valkey.io/
+
+* ⭐`zonemeen/musicn` [🎵 一个可播放及下载音乐的 Node.js 命令行工具 含web](https://github.com/zonemeen/musicn)
 * `wy580477/musicn-container` [播放及下载高品质音乐的命令行工具 musicn 容器](https://github.com/wy580477/musicn-container)
 * `GopeedLab/gopeed` [一款现代化的下载器 开源、轻量、原生，支持（HTTP、BitTorrent、Magnet 等）协议下载](https://github.com/GopeedLab/gopeed)
   * https://gopeed.com/
@@ -26,7 +78,7 @@
 * `alyssaxuu/screenity` [Chrome插件，屏幕录像和标注工具](https://github.com/alyssaxuu/screenity)
 * `microsoft/garnet` [Redis替代品，比Redis性能更强的高性能分布式存储数据库](https://github.com/microsoft/garnet)
   * https://microsoft.github.io/garnet/
-* `zyronon/douyin` [Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile](https://github.com/zyronon/douyin)
+* ⭐`zyronon/douyin` [Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile](https://github.com/zyronon/douyin)
   * https://dy.ttentau.top/
 * `wangshub/Douyin-Bot` [😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐](https://github.com/wangshub/Douyin-Bot)
   * https://zhuanlan.zhihu.com/p/37365182
