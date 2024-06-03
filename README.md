@@ -56,7 +56,7 @@
   * https://www.usebruno.com/
   * https://mp.weixin.qq.com/s/mrR6jRqwHIIPej37wQ_kLQ
 
-* `Carpenter-MK1/MaaHatsuboshiTA` [基于Maa框架的学园偶像大师助手 可参考用来开发pc端游戏后台辅助工具]
+* `Carpenter-MK1/MaaHatsuboshiTA` [基于Maa框架的学园偶像大师助手 可参考用来开发pc端游戏后台辅助工具](https://github.com/Carpenter-MK1/MaaHatsuboshiTA)
   * https://www.bilibili.com/video/BV19U411d7QG
 
 * `sfvsfv/sensitive_words` [互联网敏感词，敏感词检测系统](https://github.com/sfvsfv/sensitive_words)
