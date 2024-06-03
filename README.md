@@ -1,55 +1,124 @@
+* ``
+* ``
+* ``
+* `lxfater/inpaint-web` [照片修复与图像提升工具](https://github.com/lxfater/inpaint-web)
+  * https://inpaintweb.lxfater.com/
+  * https://mp.weixin.qq.com/s/4RbkKLeRlu7tGF89nRPbvA
+
+* `VikParuchuri/surya` [OCR识别，支持 90 多种语言，性能超越云服务](https://github.com/VikParuchuri/surya)
+  * https://mp.weixin.qq.com/s/0SJzHcA9X4-eyq6eECm5VA
+
+* `open-webui/open-webui` [GPT的WebUI](https://github.com/open-webui/open-webui)
+  * https://openwebui.com/
+
+* `ollama/ollama` [Ollama是一个开源的项目，设计用于简化大模型（LLM）的部署和使用流程。它允许用户下载并本地运行像 Llama 3、Code Llama、Gemma、Mistral 等大模型，并支持自定义和创建自己的大模型](https://github.com/ollama/ollama)
+  * 可使用 `open-webui/open-webui` 搭建WebUI
+  * https://ollama.com/
+  * https://ollama.com/library
+  * https://mp.weixin.qq.com/s/BJO3RqPpa7ZbZMNshBi-IA
+  * https://mp.weixin.qq.com/s/U5iXHu2suZy2w3YmK85SNQ
+
+* `crawlab-team/artipub` [文章编写发布平台 一文多发平台，将文章自动发布到CSDN、知乎等平台](https://github.com/crawlab-team/artipub)
+* `crawlab-team/crawlab-lite` [轻量版 Crawlab 爬虫管理平台](https://github.com/crawlab-team/crawlab-lite)
+* `crawlab-team/crawlab` [一款开源、强悍的分布式爬虫管理平台](https://github.com/crawlab-team/crawlab)
+  * https://www.crawlab.cn/
+  * https://docs.crawlab.cn/zh/guide/
+  * https://mp.weixin.qq.com/s/YWZLjQnXAmxDAyrY5IrlRQ
+
+* `AppFlowy-IO/AppFlowy` [全平台同步的笔记软件](https://github.com/AppFlowy-IO/AppFlowy)
+  * https://www.appflowy.io/
+
+* `laurent22/joplin` [支持全平台同步的笔记软件 多平台同步方式WebDav、Dropbox、Nextcloud等](https://github.com/laurent22/joplin)
+  * https://joplinapp.org/
+
+* `blackholll/loonflow` [较推荐 工作流引擎 基于django的工作流引擎,工单](https://github.com/blackholll/loonflow)
+* `aizuda/flowlong` [工作流引擎](https://gitee.com/aizuda/flowlong)
+  * https://doc.flowlong.com/
+
+* `jackrolling/jsonflow-ui` [工作流引擎](https://gitee.com/jackrolling/jsonflow-ui)
+  * https://flow.pig4cloud.com/
+
+* `yllan/ferry` [工作流引擎](https://gitee.com/yllan/ferry)
+  * http://fdevops.com:8001/
+
+* `crowncloud/smart-flow-design` [工作流引擎](https://gitee.com/crowncloud/smart-flow-design)
+  * http://47.109.22.115:10090/
+
+* `dromara/warm-flow` [工作流引擎](https://gitee.com/dromara/warm-flow)
+  * http://warm-flow.cn/
+
+* `DDS-Derek/xiaoya-alist` [小雅Alist的相关周边 一键安装脚本及小雅Emby、Jellfin等一键安装](https://github.com/DDS-Derek/xiaoya-alist)
+* `Eugeny/tabby` [一个cmd终端替代软件](https://github.com/Eugeny/tabby)
+  * https://tabby.sh/
+  * https://mp.weixin.qq.com/s/aJPkyHrsPqXKcODxRKZUfQ
+
+* `usebruno/bruno` [一款可替代 Postman 的API 测试工具，完全离线，基于 Git 版本控制](https://github.com/usebruno/bruno)
+  * https://www.usebruno.com/
+  * https://mp.weixin.qq.com/s/mrR6jRqwHIIPej37wQ_kLQ
+
+* `Carpenter-MK1/MaaHatsuboshiTA` [基于Maa框架的学园偶像大师助手 可参考用来开发pc端游戏后台辅助工具]
+  * https://www.bilibili.com/video/BV19U411d7QG
+
+* `sfvsfv/sensitive_words` [互联网敏感词，敏感词检测系统](https://github.com/sfvsfv/sensitive_words)
+* `tencent-ailab/v-express` [AI腾讯 一键生成逼真口型视频，一张图片、一段音频和一些列V-Kps(视频关键点)图像来生成逼真的口型视频](https://github.com/tencent-ailab/v-express)
+* `jianchang512/zh_recogn` [将音频或视频中的中文语音识别并导出为srt字幕，基于魔塔社区Paraformer模型](https://github.com/jianchang512/zh_recogn)
+* `jianchang512/stt` [一个离线运行的本地语音识别转文字服务，输出json、srt字幕带时间戳、纯文字格式](https://github.com/jianchang512/stt)
+* `jianchang512/vocal-separate` [这是一个极简的人声和背景音乐分离工具，本地化网页操作，无需连接外网](https://github.com/jianchang512/vocal-separate)
+* `jianchang512/ChatTTS-ui` [AI 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口](https://github.com/jianchang512/ChatTTS-ui)
+* `jianchang512/pyvideotrans` [AI视频翻译配音 将视频从一种语言翻译为另一种语言，并添加配音](https://github.com/jianchang512/pyvideotrans)
+  * https://pyvideotrans.com/
+
+* `jianchang512/clone-voice` [AI语音克隆 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频](https://github.com/jianchang512/clone-voice)
+* `iperov/DeepFaceLive` [AI人脸识别 实时面部交换为个人电脑流媒体或视频通话](https://github.com/iperov/DeepFaceLive)
+  * [软件下载](https://deepfakevfx.com/downloads/deepfacelive/)
+
+* `justadudewhohacks/face-api.js` [AI人脸识别jsapi](https://github.com/justadudewhohacks/face-api.js)
+* `TsMask/face-api-demo-vue` [AI人脸识别 使用 Vue 框架搭建演示，H5、Web、NodeJS 实现人脸检测识别，基于 TensorFlowJS 实现的 face-api.js 人脸识别库](https://github.com/TsMask/face-api-demo-vue)
+  * https://env-00jxgas7e2fy-static.normal.cloudstatic.cn/face-api-demo-vue/index.html#/
+
+* `yang-jia-liang/face-api.js` [AI人脸识别jsapi 在vue中的使用](https://github.com/yang-jia-liang/face-api.js)
+  * https://yang-jia-liang.github.io/face-api.js/
+
+* `dyang886/Game-Cheats-Manager` [游戏修改器集合 风灵月影与 WeMod 为 pc 单机游戏修改器，本软件旨在提供一站式下载与管理，方便广大玩家使用](https://github.com/dyang886/Game-Cheats-Manager)
 * `Stirling-Tools/Stirling-PDF` [PDF编辑 查看等各种PDF操作的WEB程序](https://github.com/Stirling-Tools/Stirling-PDF)
   * https://stirlingtools.com/
-
 * `apache/superset` [Apache开源的数据可视化和数据图表分析平台 日报、报表](https://github.com/apache/superset)
   * https://superset.apache.org/
   * [尾部含其他报表平台推荐 还有什么时候使用Grafana的说明](https://zhuanlan.zhihu.com/p/37507235)
-
 * `709343767/phoenix` [开源监控平台，主要用于监控应用程序、日志、服务器、数据库、网络、tcp端口和http接口，通过实时收集、汇聚和分析监控信息](https://github.com/709343767/phoenix)
 * `imputnet/cobalt` [抖音、哔哩哔哩、YouTube等视频平台链接解析下载，视频嗅探下载](https://github.com/imputnet/cobalt)
   * https://cobalt.tools/
-
 * `bobohume/gonet` [go分布式服务器，基于内存mmo](https://github.com/bobohume/gonet)
 * `xiangyuecn/AreaCity-JsSpider-StatsGov` [省市区县乡镇三级或四级城市数据](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov)
   * https://xiangyuecn.github.io/AreaCity-JsSpider-StatsGov/
-
 * `kakuilan/china_area_mysql` [中国5级行政区域mysql库](https://github.com/kakuilan/china_area_mysql)
 * `portainer/portainer` [Docker和K8s的可视化管理监控系统](https://github.com/portainer/portainer)
   * https://www.portainer.io/
   * https://zhuanlan.zhihu.com/p/403285855
-
 * `conda-forge/miniforge` [Anaconda替代品，更轻量](https://github.com/conda-forge/miniforge)
   * https://conda-forge.org/miniforge
-
 * `lllyasviel/Fooocus` [AI 文生图](https://github.com/lllyasviel/Fooocus)
   * https://www.fooocus.cc/model
-
+  * https://mp.weixin.qq.com/s/V8XDNjS7ZQixjoFvqyCK5w
 * `limedroid/XDroid` [轻量级Android快速开发框架](https://github.com/limedroid/XDroid)
 * `zblogcn/zblogphp` [一个简单的博客平台 Z-BlogPHP博客程序](https://github.com/zblogcn/zblogphp)
   * https://www.zblogcn.com/
-
 * `ac-pm/SSLUnpinning_Xposed` [Xposed模块 ssl解锁，绕过ssl认证](https://github.com/ac-pm/SSLUnpinning_Xposed)
 * `reqable/reqable-app` [小黄鸟 HttpCanary 作者开发的替代品 新一代抓包网络调试工具](https://github.com/reqable/reqable-app)
   * https://reqable.com/
   * https://www.52pojie.cn/thread-1833856-1-1.html
-
 * `Laverna/laverna` [开源、在线的Web Markdown笔记系统](https://github.com/Laverna/laverna)
   * https://laverna.cc/index.html
-
 * `umami-software/umami` [开源的网站分析统计系统，统计访客UV、浏览PV、用户来源、地区等网站指标 来自Google](https://github.com/umami-software/umami)
   * https://umami.is/
-
 * `appium/appium` [也是安卓自动化，速度没有uiautomator2快](https://github.com/appium/appium)
   * http://appium.io/docs/zh/latest/
-
 * `openatx/uiautomator2` [可用作连点器，安卓原生自动化](https://github.com/openatx/uiautomator2)
 * `zfoo-project/zfoo` [游戏服务器框架](https://github.com/zfoo-project/zfoo)
 * `dushixiang/next-terminal` [堡垒机 Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议](https://github.com/dushixiang/next-terminal)
   * https://next-terminal.typesafe.cn/
-
 * `valkey-io/valkey` [Redis替代品](https://github.com/valkey-io/valkey)
   * https://valkey.io/
-
 * ⭐`zonemeen/musicn` [🎵 一个可播放及下载音乐的 Node.js 命令行工具 含web](https://github.com/zonemeen/musicn)
 * `wy580477/musicn-container` [播放及下载高品质音乐的命令行工具 musicn 容器](https://github.com/wy580477/musicn-container)
 * `GopeedLab/gopeed` [一款现代化的下载器 开源、轻量、原生，支持（HTTP、BitTorrent、Magnet 等）协议下载](https://github.com/GopeedLab/gopeed)
@@ -107,6 +176,7 @@
 * `akazwz/smail` [临时邮箱服务](https://github.com/akazwz/smail)
 * `soulteary/webhook` [稳定靠谱的网络钩子，快速连接各种系统](https://github.com/soulteary/webhook)
 * `chansee97/nova-admin` [一个基于Vue3+Vite的管理系统前端模板](https://github.com/chansee97/nova-admin)
+  * https://nova-admin-site.netlify.app/login
 * `myshell-ai/OpenVoice` [基于AI的语音克隆服务](https://github.com/myshell-ai/OpenVoice)
   * https://huggingface.co/spaces/myshell-ai/OpenVoice
   * https://research.myshell.ai/open-voice
