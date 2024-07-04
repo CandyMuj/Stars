@@ -1,4 +1,9 @@
 * ``
+* `mysll/ps-offline` [在线PS工具 在线Photoshop](https://github.com/mysll/ps-offline)
+  * [在线PS、在线PDF、在线IT工具箱，盘点这些Docker部署的在线好用工具](https://post.smzdm.com/p/aovl8lo7/)
+  * [Photopea](https://www.photopea.com/)
+  * [PSgaoding Photopea的国内版本](https://ps.gaoding.com/)
+
 * `camb-ai/mars5-tts` [AI 声音克隆](https://github.com/camb-ai/mars5-tts)
 * `modelscope/DiffSynth-Studio` [AI 一键视频动漫化](https://github.com/modelscope/DiffSynth-Studio)
   * https://github.com/modelscope/DiffSynth-Studio/blob/main/examples/Diffutoon/README.md
