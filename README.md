@@ -1,64 +1,51 @@
 * ``
-* ``
-* ``
+* `camb-ai/mars5-tts` [AI 声音克隆](https://github.com/camb-ai/mars5-tts)
+* `modelscope/DiffSynth-Studio` [AI 一键视频动漫化](https://github.com/modelscope/DiffSynth-Studio)
+  * https://github.com/modelscope/DiffSynth-Studio/blob/main/examples/Diffutoon/README.md
+
 * `lxfater/inpaint-web` [照片修复与图像提升工具](https://github.com/lxfater/inpaint-web)
   * https://inpaintweb.lxfater.com/
   * https://mp.weixin.qq.com/s/4RbkKLeRlu7tGF89nRPbvA
-
 * `VikParuchuri/surya` [OCR识别，支持 90 多种语言，性能超越云服务](https://github.com/VikParuchuri/surya)
   * https://mp.weixin.qq.com/s/0SJzHcA9X4-eyq6eECm5VA
-
 * `open-webui/open-webui` [GPT的WebUI](https://github.com/open-webui/open-webui)
   * https://openwebui.com/
-
 * `ollama/ollama` [Ollama是一个开源的项目，设计用于简化大模型（LLM）的部署和使用流程。它允许用户下载并本地运行像 Llama 3、Code Llama、Gemma、Mistral 等大模型，并支持自定义和创建自己的大模型](https://github.com/ollama/ollama)
   * 可使用 `open-webui/open-webui` 搭建WebUI
   * https://ollama.com/
   * https://ollama.com/library
   * https://mp.weixin.qq.com/s/BJO3RqPpa7ZbZMNshBi-IA
   * https://mp.weixin.qq.com/s/U5iXHu2suZy2w3YmK85SNQ
-
 * `crawlab-team/artipub` [文章编写发布平台 一文多发平台，将文章自动发布到CSDN、知乎等平台](https://github.com/crawlab-team/artipub)
 * `crawlab-team/crawlab-lite` [轻量版 Crawlab 爬虫管理平台](https://github.com/crawlab-team/crawlab-lite)
 * `crawlab-team/crawlab` [一款开源、强悍的分布式爬虫管理平台](https://github.com/crawlab-team/crawlab)
   * https://www.crawlab.cn/
   * https://docs.crawlab.cn/zh/guide/
   * https://mp.weixin.qq.com/s/YWZLjQnXAmxDAyrY5IrlRQ
-
 * `AppFlowy-IO/AppFlowy` [全平台同步的笔记软件](https://github.com/AppFlowy-IO/AppFlowy)
   * https://www.appflowy.io/
-
 * `laurent22/joplin` [支持全平台同步的笔记软件 多平台同步方式WebDav、Dropbox、Nextcloud等](https://github.com/laurent22/joplin)
   * https://joplinapp.org/
-
 * `blackholll/loonflow` [较推荐 工作流引擎 基于django的工作流引擎,工单](https://github.com/blackholll/loonflow)
 * `aizuda/flowlong` [工作流引擎](https://gitee.com/aizuda/flowlong)
   * https://doc.flowlong.com/
-
 * `jackrolling/jsonflow-ui` [工作流引擎](https://gitee.com/jackrolling/jsonflow-ui)
   * https://flow.pig4cloud.com/
-
 * `yllan/ferry` [工作流引擎](https://gitee.com/yllan/ferry)
   * http://fdevops.com:8001/
-
 * `crowncloud/smart-flow-design` [工作流引擎](https://gitee.com/crowncloud/smart-flow-design)
   * http://47.109.22.115:10090/
-
 * `dromara/warm-flow` [工作流引擎](https://gitee.com/dromara/warm-flow)
   * http://warm-flow.cn/
-
 * `DDS-Derek/xiaoya-alist` [小雅Alist的相关周边 一键安装脚本及小雅Emby、Jellfin等一键安装](https://github.com/DDS-Derek/xiaoya-alist)
 * `Eugeny/tabby` [一个cmd终端替代软件](https://github.com/Eugeny/tabby)
   * https://tabby.sh/
   * https://mp.weixin.qq.com/s/aJPkyHrsPqXKcODxRKZUfQ
-
 * `usebruno/bruno` [一款可替代 Postman 的API 测试工具，完全离线，基于 Git 版本控制](https://github.com/usebruno/bruno)
   * https://www.usebruno.com/
   * https://mp.weixin.qq.com/s/mrR6jRqwHIIPej37wQ_kLQ
-
 * `Carpenter-MK1/MaaHatsuboshiTA` [基于Maa框架的学园偶像大师助手 可参考用来开发pc端游戏后台辅助工具](https://github.com/Carpenter-MK1/MaaHatsuboshiTA)
   * https://www.bilibili.com/video/BV19U411d7QG
-
 * `sfvsfv/sensitive_words` [互联网敏感词，敏感词检测系统](https://github.com/sfvsfv/sensitive_words)
 * `tencent-ailab/v-express` [AI腾讯 一键生成逼真口型视频，一张图片、一段音频和一些列V-Kps(视频关键点)图像来生成逼真的口型视频](https://github.com/tencent-ailab/v-express)
 * `jianchang512/zh_recogn` [将音频或视频中的中文语音识别并导出为srt字幕，基于魔塔社区Paraformer模型](https://github.com/jianchang512/zh_recogn)
@@ -67,18 +54,14 @@
 * `jianchang512/ChatTTS-ui` [AI 一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口](https://github.com/jianchang512/ChatTTS-ui)
 * `jianchang512/pyvideotrans` [AI视频翻译配音 将视频从一种语言翻译为另一种语言，并添加配音](https://github.com/jianchang512/pyvideotrans)
   * https://pyvideotrans.com/
-
 * `jianchang512/clone-voice` [AI语音克隆 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频](https://github.com/jianchang512/clone-voice)
 * `iperov/DeepFaceLive` [AI人脸识别 实时面部交换为个人电脑流媒体或视频通话](https://github.com/iperov/DeepFaceLive)
   * [软件下载](https://deepfakevfx.com/downloads/deepfacelive/)
-
 * `justadudewhohacks/face-api.js` [AI人脸识别jsapi](https://github.com/justadudewhohacks/face-api.js)
 * `TsMask/face-api-demo-vue` [AI人脸识别 使用 Vue 框架搭建演示，H5、Web、NodeJS 实现人脸检测识别，基于 TensorFlowJS 实现的 face-api.js 人脸识别库](https://github.com/TsMask/face-api-demo-vue)
   * https://env-00jxgas7e2fy-static.normal.cloudstatic.cn/face-api-demo-vue/index.html#/
-
 * `yang-jia-liang/face-api.js` [AI人脸识别jsapi 在vue中的使用](https://github.com/yang-jia-liang/face-api.js)
   * https://yang-jia-liang.github.io/face-api.js/
-
 * `dyang886/Game-Cheats-Manager` [游戏修改器集合 风灵月影与 WeMod 为 pc 单机游戏修改器，本软件旨在提供一站式下载与管理，方便广大玩家使用](https://github.com/dyang886/Game-Cheats-Manager)
 * `Stirling-Tools/Stirling-PDF` [PDF编辑 查看等各种PDF操作的WEB程序](https://github.com/Stirling-Tools/Stirling-PDF)
   * https://stirlingtools.com/
