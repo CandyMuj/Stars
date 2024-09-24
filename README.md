@@ -1,4 +1,141 @@
-* ``
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* `zhaojh329/rtty` [一个Web版的SSH客户端 Web Shell工具](https://github.com/zhaojh329/rtty)
+* `luckjiawei/frpc-desktop` [一个frpc桌面客户端](https://github.com/luckjiawei/frpc-desktop)
+* `javahuang/surveyking` [卷王 功能最强大的调查问卷系统和考试系统](https://gitee.com/surveyking/surveyking)
+  * [GitHub 仓库](https://github.com/javahuang/SurveyKing)
+  * [官网](https://surveyking.cn/)
+  * [体验地址](https://s.surveyking.cn/user/login)
+  * [Docker Hub](https://hub.docker.com/r/surveyking/surveyking)
+* `yacy/yacy_search_server` [分布式开源web搜索引擎系统 基于P2P点对点连接，而不是通过中央服务器进行搜索查询 用户下载该软件后就可以进行搜索，保证内容不被审查、搜索结果不会被中央服务器记录和分析](https://github.com/yacy/yacy_search_server)
+  * [百度百科](https://baike.baidu.com/item/YaCy/6625380)
+  * [官网](http://yacy.net/)
+  * [Docker Hub](https://hub.docker.com/r/yacy/yacy_search_server)
+* `searxng/searxng` [可自建私有化部署的搜索引擎 隐私搜索引擎，不被追踪](https://github.com/searxng/searxng)
+  * [一个尊重个人隐私的搜索引擎，可以私有化部署，Star 9.6+！](https://mp.weixin.qq.com/s/hQcYnoReN9DZIIiIl_6ojA)
+  * [官方文档](https://docs.searxng.org/)
+  * [公共实例列表](https://searx.space/)
+* `fingerprintjs/fingerprintjs` [浏览器指纹识别库 获取浏览器指纹](https://github.com/fingerprintjs/fingerprintjs)
+  * [一个浏览器指纹识别库，强的有点让人害怕！Star 21K+！](https://mp.weixin.qq.com/s/DsflKIg78KvP-iBFTmbyRQ)
+  * [官网](https://fingerprint.com/) [官网/github](https://fingerprint.com/github/)
+  * [demo1](https://fingerprint.com/demo/)
+  * [demo2](https://demo.fingerprint.com/)
+  * [demo3](https://fingerprintjs.github.io/fingerprintjs/)
+* `pavlobu/deskreen` [屏幕共享 投屏 电脑投屏到任意设备](https://github.com/pavlobu/deskreen)
+  * https://deskreen.com/lang-zh_CN
+* `NeoVertex1/SuperPrompt` [AI Prompt提示词](https://github.com/NeoVertex1/SuperPrompt)
+* `kedreamix/Linly-Dubbing` [AI 智能视频多语言AI配音/翻译工具](https://github.com/kedreamix/Linly-Dubbing)
+* `linyqh/NarratoAI` [AI 影视解说+自动化剪辑](https://github.com/linyqh/NarratoAI)
+* `JustArchiNET/ArchiSteamFarm` [ASF Steam挂卡自动挂卡工具  Steam++已集成此工具](https://github.com/JustArchiNET/ArchiSteamFarm)
+  * [教程说明1](https://keylol.com/t770760-1-1)
+  * [教程说明2](https://www.bilibili.com/read/cv14715963/)
+  * [Steam++中关于ASF的相关说明](https://xtsat.github.io/SteamTools-Guide/zh/document/Functions/ASF/info.html)
+* `BeyondDimension/SteamTools` [Steam++ Steam神器！！！ 已更名为「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱](https://github.com/BeyondDimension/SteamTools)
+  * https://steampp.net/
+  * https://xtsat.github.io/SteamTools-Guide/zh/
+* `hluk/CopyQ` [具有高级功能的剪贴板管理器](https://github.com/hluk/CopyQ)
+* `NaoTu/DesktopNaotu` [桌面版脑图 (百度脑图离线版，思维导图) 跨平台支持 Windows/Linux/Mac OS](https://github.com/NaoTu/DesktopNaotu)
+* `GNOME/gimp` [一个图像处理程序 图像编辑软件 免费P图工具，包括几乎所有图象处理所需的功能 相当于一个简洁小巧的Photoshop](https://github.com/GNOME/gimp)
+  * https://www.gimp.org/
+  * https://www.gimp.org/downloads/
+  * https://gitlab.gnome.org/GNOME/gimp
+* `audacity/audacity` [音频编辑工具 支持多平台的快速多轨音频编辑、录制工具，界面简洁，操作简单，无需任何的专业知识第一次使用也可以轻松上手。软件提供了剪裁、混音、升/降音以及变音特效等基础的编辑功能，可以支持播放音频、录音、输入输出各种类型的音频文件，是一款功能强大的音频处理软件](https://github.com/audacity/audacity)
+  * https://www.audacityteam.org/
+  * https://www.audacityteam.org/download/
+  * https://wiki.audacityteam.org/wiki/For_Developers
+  * https://support.audacityteam.org/troubleshooting/missing-features#audacity-wiki
+* `nilaoda/N_m3u8DL-CLI` [⭐ m3u8下载器  仅支持Win](https://github.com/nilaoda/N_m3u8DL-CLI)
+  * [下载时建议下载后缀为 with_ffmpeg_and_SimpleG 的，带有简单的GUI并包含ffmpeg 可直接用](https://github.com/nilaoda/N_m3u8DL-CLI/releases)
+  * https://nilaoda.github.io/N_m3u8DL-CLI/
+* `nilaoda/N_m3u8DL-RE` [`nilaoda/N_m3u8DL-CLI` 的升级版本，跨平台支持Win/Linux/Mac 支持点播、直播(DASH/HLS)  仅命令行暂无GUI](https://github.com/nilaoda/N_m3u8DL-RE)
+* `Momo707577045/m3u8-downloader` [m3u8下载器 WEB版 m3u8 视频在线提取工具](https://github.com/Momo707577045/m3u8-downloader)
+  * [演示Demo](http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html)
+  * [其他实用工具 (在演示demo右下角有链接)](https://blog.luckly-mjw.cn/tool-show/index.html)
+* `getcursor/cursor` [一个AI编程工具 自动完成代码 代码解析 提示等](https://github.com/getcursor/cursor)
+  * https://www.cursor.com/
+* `NickeManarin/ScreenToGif` [录制屏幕并保存为Gif或视频](https://github.com/NickeManarin/ScreenToGif)
+  * https://www.screentogif.com/
+* `wmjordan/PDFPatcher` [PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等](https://github.com/wmjordan/PDFPatcher)
+  * https://pdfpatcher.cnblogs.com/
+* `sumatrapdfreader/sumatrapdf` [PDF阅读器 同时支持查看eBook、comic book、DjVu、XPS、CHM、图片](https://github.com/sumatrapdfreader/sumatrapdf)
+  * http://www.sumatrapdfreader.org/
+  * https://www.sumatrapdfreader.org/free-pdf-reader
+* `gkd-kit/gkd` [安卓跳广告 李跳跳替代品](https://github.com/gkd-kit/gkd)
+  * https://gkd.li/
+* `Chuyu-Team/Dism-Multi-language` [Dism++ Windows系统精简工具 系统优化工具  可以清理垃圾、管理启动项、服务、应用、驱动、功能等，提高系统运行速度和美化系统](https://github.com/Chuyu-Team/Dism-Multi-language)
+* `frappe/erpnext` [免费和开源的企业资源规划（开源的ERP系统）](https://github.com/frappe/erpnext)
+  * [官网](https://erpnext.com/)
+  * [演示Demo](https://erpnext-demo.frappe.cloud/api/method/erpnext_demo.erpnext_demo.auth.login_demo)
+* `Z4nzu/hackingtool` [黑客 所有黑客需要用到的工具 黑客工具箱](https://github.com/Z4nzu/hackingtool)
+* `kkbo8005/mitan` [黑客 密探渗透测试工具包含资产信息收集，子域名爆破，搜索语法，资产测绘（FOFA，Hunter，quake, ZoomEye），指纹识别，敏感信息采集，文件扫描、密码字典等功能](https://github.com/kkbo8005/mitan)
+  * https://space.bilibili.com/552795114
+* `ttqftech/FFBox` [一个多媒体转码百宝箱 / 一个 FFmpeg 的套壳 基于FFmpeg封装的视频处理工具](https://github.com/ttqftech/FFBox)
+  * [官网](http://ffbox.ttqf.tech/)
+* `Zeyi-Lin/HivisionIDPhotos` [AI-证件照生成 一个轻量级的AI证件照制作算法](https://github.com/Zeyi-Lin/HivisionIDPhotos)
+  * [在线演示](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)
+* `lionsoul2014/ip2region` [离线IP地址定位库和IP定位数据管理框架 仅支持IPV4](https://github.com/lionsoul2014/ip2region)
+* `yourtion/node-ip2region ` [离线IP地址定位库和IP定位数据管理框架 新增IPV6支持](https://github.com/yourtion/node-ip2region)
+  * https://gitee.com/we-mid/node_ip2r
+  * https://gitee.com/we-mid/go/blob/main/ip2r/README.md
+* `RSSNext/Follow` [下一代RSS信息浏览器](https://github.com/RSSNext/Follow)
+  * https://follow.is/
+* `LibraHp/GetQzonehistory` [获取QQ空间发布的历史说说 原理：获取QQ空间的历史消息列表进行数据分析](https://github.com/LibraHp/GetQzonehistory)
+* `HerbertHe/iptv-sources` [自动更新的iptv资源服务](https://github.com/HerbertHe/iptv-sources)
+  * https://m3u.ibert.me/
+  * https://iptv.b2og.com/
+  * https://m3u.002397.xyz/
+* `unilei/aipan-netdisk-search` [爱盼-基于Vue+Nuxt.js的网盘搜索项目 旨在让人人皆可拥有属于自己的网盘搜索网站](https://github.com/unilei/aipan-netdisk-search)
+  * https://www.aipan.me/
+* `aceld/zinx` [一个基于Golang的轻量级并发服务器框架](https://github.com/aceld/zinx)
+  * https://github.com/aceld/zinx/wiki
+  * http://zinx.me/
+  * https://gitee.com/Aceld/zinx
+* `coreybutler/nvm-windows` [nodejs多版本管理及切换工具](https://github.com/coreybutler/nvm-windows)
+* `textbus/textbus` [Textbus 是一个组件化的、数据驱动的富文本框架，支持在线协同编辑，拥有非常好的扩展性和可定制性，可使用 Viewfly、Vue 或 React 直接渲染富文本，是构建复杂富文本的不二之选！](https://github.com/textbus/textbus)
+  * https://textbus.io/
+* `Anduin2017/HowToCook` [程序员做饭指南](https://github.com/Anduin2017/HowToCook)
+  * https://cook.aiursoft.cn/
+* `CHERWING/CHERWIN_SCRIPTS` [青龙脚本库 薅羊毛脚本库](https://github.com/CHERWING/CHERWIN_SCRIPTS)
+* `zh-lx/pinyin-pro` [js库 中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配、中文分词](https://github.com/zh-lx/pinyin-pro)
+  * https://pinyin-pro.cn/
+* `trevorhobenshield/twitter-api-client` [推特Twitter  v1, v2和GraphQL APIs](https://github.com/trevorhobenshield/twitter-api-client)
+  * https://pypi.org/project/twitter-api-client
+* `mrdoob/three.js` [JavaScript 3D 引擎](https://github.com/mrdoob/three.js)
+  * https://threejs.org/
+* `defold/defold` [免费的游戏引擎 用于开发desktop、mobile和web游戏](https://github.com/defold/defold)
+  * https://www.defold.com/
+  * https://defold.com/zh/manuals/introduction/
+* `pixijs/pixijs` [H5 2D游戏引擎 渲染引擎](https://github.com/pixijs/pixijs)
+  * http://pixijs.com/
+* `coronalabs/corona` [2D游戏引擎](https://github.com/coronalabs/corona)
+  * https://solar2d.com/
+* `layabox/LayaAir` [全平台2D/3D渲染引擎 游戏引擎](https://github.com/layabox/LayaAir)
+  * https://www.layaair.com/
+* `libgdx/libgdx` [Desktop/Android/HTML5/iOS 全平台 Java游戏开发引擎](https://github.com/libgdx/libgdx)
+  * http://www.libgdx.com/
+* `phaserjs/phaser` [2D h5游戏引擎](https://github.com/phaserjs/phaser)
+  * https://phaser.io/
+* `syncthing/syncthing` [开源的连续文件同步工具](https://github.com/syncthing/syncthing)
+  * https://syncthing.net/
+* `TransparentLC/WechatMomentScreenshot` [朋友圈转发截图生成工具](https://github.com/TransparentLC/WechatMomentScreenshot)
+  * https://git.io/WMS
+  * https://akarin.dev/WechatMomentScreenshot/
+  * https://transparentlc.github.io/WechatMomentScreenshot
+* `wg-easy/wg-easy` [最简单的方式快速搭建WireGuard VPN并且包含Web管理系统UI](https://github.com/wg-easy/wg-easy)
+* `dromara/orion-visor` [一款高颜值、现代化的自动化运维&轻量堡垒机平台](https://github.com/dromara/orion-visor)
+  * https://visor.orionsec.cn/
+* `z-bool/Venom-aoman` [去指纹浏览器，隐私浏览器，去debugger浏览器 基于Chromium重新编译的](https://github.com/z-bool/Venom-aoman)
 * `mysll/ps-offline` [在线PS工具 在线Photoshop](https://github.com/mysll/ps-offline)
   * [在线PS、在线PDF、在线IT工具箱，盘点这些Docker部署的在线好用工具](https://post.smzdm.com/p/aovl8lo7/)
   * [Photopea](https://www.photopea.com/)
@@ -47,6 +184,10 @@
 * `usebruno/bruno` [一款可替代 Postman 的API 测试工具，完全离线，基于 Git 版本控制](https://github.com/usebruno/bruno)
   * https://www.usebruno.com/
   * https://mp.weixin.qq.com/s/mrR6jRqwHIIPej37wQ_kLQ
+* `MaaAssistantArknights/MaaAssistantArknights` [Maa的原身,《明日方舟》小助手](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+* `MaaXYZ/MaaFramework` [基于图像识别技术、运用 [MAA原身 明日方舟小助手] 开发经验去芜存菁、完全重写的新一代自动化黑盒测试框架](https://github.com/MaaXYZ/MaaFramework)
+* `MaaXYZ/MaaPracticeBoilerplate` [MaaFramework框架所提供的项目模板 官方的快速开发框架](https://github.com/MaaXYZ/MaaPracticeBoilerplate)
+* `akibaso/MHA` [用于参考其开发架构 - 基于Maa框架的 红烧天堂(绯染天空) 小助手](https://github.com/akibaso/MHA)
 * `Carpenter-MK1/MaaHatsuboshiTA` [基于Maa框架的学园偶像大师助手 可参考用来开发pc端游戏后台辅助工具](https://github.com/Carpenter-MK1/MaaHatsuboshiTA)
   * https://www.bilibili.com/video/BV19U411d7QG
 * `sfvsfv/sensitive_words` [互联网敏感词，敏感词检测系统](https://github.com/sfvsfv/sensitive_words)
@@ -293,7 +434,7 @@
   * https://qiuyu96.github.io/CoDeF/
 * `chaitin/SafeLine` [WAF，雷池防火墙](https://github.com/chaitin/SafeLine)
   * https://waf-ce.chaitin.cn/
-* `fanmingming/live` [一个可直连访问的电视/广播图标库与相关工具项目，支持IPv4/IPv6双栈访问](https://github.com/fanmingming/live)
+* `fanmingming/live` [EPG服务 一个可直连访问的电视/广播图标库与相关工具项目，支持IPv4/IPv6双栈访问](https://github.com/fanmingming/live)
   * https://live.fanmingming.com/
 * `pjialin/py12306` [🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理](https://github.com/pjialin/py12306)
 * `listen1/listen1_desktop` [一款中国所有平台的免费音乐 (Windows, Mac, Linux desktop)](https://github.com/listen1/listen1_desktop)
@@ -303,7 +444,7 @@
 * `documenso/documenso` [文档手写签名，签字服务](https://github.com/documenso/documenso)
   * https://documenso.com/
 * `chenfei-wu/TaskMatrix` [多任务处理模型，TaskMatrix连接了ChatGPT和一系列视觉基础模型，以便在聊天期间发送和接收图像。](https://github.com/chenfei-wu/TaskMatrix)
-* `s0md3v/roop` [面部替换](https://github.com/s0md3v/roop)
+* `s0md3v/roop` [面部替换 AI一键换脸(支持图片和视频)](https://github.com/s0md3v/roop)
 * `s0md3v/sd-webui-roop` [StableDiffusion web-ui的扩展插件roop，允许在图像中进行面部替换，基于roop](https://github.com/s0md3v/sd-webui-roop)
 * `iperov/DeepFaceLab` [深度学习换脸](https://github.com/iperov/DeepFaceLab)
 * `facefusion/facefusion` [视频换脸，图片换脸](https://github.com/facefusion/facefusion)
@@ -721,7 +862,9 @@
 * `RelaxedJS/ReLaXed` [使用web技术创建PDF文档](https://github.com/RelaxedJS/ReLaXed)
 * `iamkun/dayjs` [轻量的处理时间和日期的 JavaScript 库，和 Moment.js 的 API 设计保持完全一样. 如果您曾经用过 Moment.js, 那么您已经知道如何使用 Day.js](https://github.com/iamkun/dayjs)
   * https://dayjs.gitee.io/zh-CN/
-* `nhn/tui.calendar` [JavaScript日历](https://github.com/nhn/tui.calendar)
+* `fullcalendar/fullcalendar` [JavaScript日历框架 全尺寸拖放事件日历](https://github.com/fullcalendar/fullcalendar)
+  * https://fullcalendar.io/
+* `nhn/tui.calendar` [JavaScript日历框架 它有你所需要的一切](https://github.com/nhn/tui.calendar)
   * https://ui.toast.com/tui-calendar/
 * `alibaba/p3c` [阿里巴巴开发手册](https://github.com/alibaba/p3c)
 * `rough-stuff/rough` [手绘绘图](https://github.com/rough-stuff/rough)
