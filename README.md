@@ -10,7 +10,7 @@
 * 
 * 
 * 
-* 
+* `iamr0s/InstallerX` [一款安卓应用安装程序 支持Android 5.0~13](https://github.com/iamr0s/InstallerX)
 * `zhaojh329/rtty` [一个Web版的SSH客户端 Web Shell工具](https://github.com/zhaojh329/rtty)
 * `luckjiawei/frpc-desktop` [一个frpc桌面客户端](https://github.com/luckjiawei/frpc-desktop)
 * `javahuang/surveyking` [卷王 功能最强大的调查问卷系统和考试系统](https://gitee.com/surveyking/surveyking)
@@ -86,8 +86,10 @@
   * [在线演示](https://swanhub.co/ZeYiLin/HivisionIDPhotos/demo)
 * `lionsoul2014/ip2region` [离线IP地址定位库和IP定位数据管理框架 仅支持IPV4](https://github.com/lionsoul2014/ip2region)
 * `yourtion/node-ip2region ` [离线IP地址定位库和IP定位数据管理框架 新增IPV6支持](https://github.com/yourtion/node-ip2region)
+  * https://www.npmjs.com/package/ip2region
   * https://gitee.com/we-mid/node_ip2r
   * https://gitee.com/we-mid/go/blob/main/ip2r/README.md
+
 * `RSSNext/Follow` [下一代RSS信息浏览器](https://github.com/RSSNext/Follow)
   * https://follow.is/
 * `LibraHp/GetQzonehistory` [获取QQ空间发布的历史说说 原理：获取QQ空间的历史消息列表进行数据分析](https://github.com/LibraHp/GetQzonehistory)
