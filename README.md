@@ -210,9 +210,13 @@
 * `dyang886/Game-Cheats-Manager` [游戏修改器集合 风灵月影与 WeMod 为 pc 单机游戏修改器，本软件旨在提供一站式下载与管理，方便广大玩家使用](https://github.com/dyang886/Game-Cheats-Manager)
 * `Stirling-Tools/Stirling-PDF` [PDF编辑 查看等各种PDF操作的WEB程序](https://github.com/Stirling-Tools/Stirling-PDF)
   * https://stirlingtools.com/
-* `apache/superset` [Apache开源的数据可视化和数据图表分析平台 日报、报表](https://github.com/apache/superset)
+* ⭐`apache/superset` [数据报表 BI工具 Apache开源的数据可视化和数据图表分析平台 日报、报表](https://github.com/apache/superset)
   * https://superset.apache.org/
   * [尾部含其他报表平台推荐 还有什么时候使用Grafana的说明](https://zhuanlan.zhihu.com/p/37507235)
+* `metabase/metabase` [数据报表 Metabase BI工具](https://github.com/metabase/metabase)
+  * https://metabase.com/
+* `dataease/dataease` [报表工具 BI工具 人人可用的开源BI 数据可视化分析工具](https://github.com/dataease/dataease)
+  * https://dataease.io/
 * `709343767/phoenix` [当作Maven模块引入项目的监控平台系统 开源监控平台，主要用于监控应用程序、日志、服务器、数据库、网络、tcp端口和http接口，通过实时收集、汇聚和分析监控信息](https://github.com/709343767/phoenix)
 * `imputnet/cobalt` [抖音、哔哩哔哩、YouTube等视频平台链接解析下载，视频嗅探下载](https://github.com/imputnet/cobalt)
   * https://cobalt.tools/
@@ -482,8 +486,6 @@
   * https://misskey-hub.net/cn/
 * `metersphere/metersphere` [MeterSphere 一站式开源持续测试平台，为软件质量保驾护航。搞测试，就选 MeterSphere！](https://github.com/metersphere/metersphere)
   * https://metersphere.io/
-* `dataease/dataease` [报表工具，人人可用的开源数据可视化分析工具](https://github.com/dataease/dataease)
-  * https://dataease.io/
 * `jumpserver/jumpserver` [JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。](https://github.com/jumpserver/jumpserver)
 * `hello2z/TVbox-API` [TVbox源接口收集](https://github.com/hello2z/TVbox-API)
 * `imzbf/md-editor-v3` [vue3中使用的Markdown编辑器](https://github.com/imzbf/md-editor-v3)
