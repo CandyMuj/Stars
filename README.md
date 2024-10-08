@@ -229,7 +229,7 @@
   * [尾部含其他报表平台推荐 还有什么时候使用Grafana的说明](https://zhuanlan.zhihu.com/p/37507235)
 * `metabase/metabase` [数据报表 Metabase BI工具](https://github.com/metabase/metabase)
   * https://metabase.com/
-* `dataease/dataease` [报表工具 BI工具 人人可用的开源BI 数据可视化分析工具](https://github.com/dataease/dataease)
+* `dataease/dataease` [报表工具 BI工具 人人可用的开源BI 数据可视化分析工具  Tableau、帆软的开源替代](https://github.com/dataease/dataease)
   * https://dataease.io/
 * `709343767/phoenix` [当作Maven模块引入项目的监控平台系统 开源监控平台，主要用于监控应用程序、日志、服务器、数据库、网络、tcp端口和http接口，通过实时收集、汇聚和分析监控信息](https://github.com/709343767/phoenix)
 * `imputnet/cobalt` [抖音、哔哩哔哩、YouTube等视频平台链接解析下载，视频嗅探下载](https://github.com/imputnet/cobalt)
