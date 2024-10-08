@@ -1,15 +1,29 @@
 * 
 * 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* `joke2k/faker` [数据造假-python 生成测试数据](https://github.com/joke2k/faker)
+  * [官方文档](https://faker.readthedocs.io/)
+  * [基本用法教程](https://mp.weixin.qq.com/s/4uxSCxL4VYh45o7PCawWOQ) [基本用法教程1](https://cloud.tencent.com/developer/article/1663417)
+  * [其他的库推荐-Python 生成测试数据的常用第三方库整理](https://blog.csdn.net/chenbingcai/article/details/117991401) `fake2db` `mimesis` `radar` `lipsum`
+* ⭐`massgravel/Microsoft-Activation-Scripts` [在线激活工具 支持数字永久激活，支持重装 激活Windows Office 无需下载软件，直接命令行执行激活](https://github.com/massgravel/Microsoft-Activation-Scripts)
+  * `Win + R` 运行 `slmgr.vbs -xpr` 检查当前系统激活状态
+  * 使用 `PowerShell` 执行 `irm https://get.activated.win | iex` (备用-网络不通连不上GitHub时用 `irm win.zyqq.top | iex`  自己的电脑不推荐用这个，建议想办法解决网络问题，或者手动下载仓库中的脚本文件后执行，因为前者是官方开源的脚本，更新及时，而备用的这个是个人修改汉化后放到个人服务器上的，不确定安全性及密钥的好坏，目前备用的用的是3V66T上古密钥，太老了)
+    * `键入 1 激活Windows`
+    * `键入 2 -> 1 激活Office`
+  * [官网及文档](https://massgrave.dev/)
+  * [B站视频教程](https://www.bilibili.com/video/BV1XM411X7wT) [备用命令来源B站视频](https://www.bilibili.com/video/BV1ujGDeEEmh)
+* `zbezj/HEU_KMS_Activator` [KMS离线激活工具  支持数字永久激活，支持重装 激活Windows Office](https://github.com/zbezj/HEU_KMS_Activator)
+  * [关于此激活工具的一些功能介绍](https://www.rjctx.com/137.html)
+* `0xJacky/nginx-ui` [高效管理Nginx的图形化界面工具](https://github.com/0xJacky/nginx-ui)
+  * [官方文档](https://nginxui.com/)
+  * [示例](https://demo.nginxui.com) admin/admin
+* `DaoCloud/public-image-mirror` [docker国内可用的镜像服务](https://github.com/DaoCloud/public-image-mirror)
+* `hacksider/Deep-Live-Cam` [AI 实时换脸](https://github.com/hacksider/Deep-Live-Cam)
+* `ouqiang/delay-queue` [基于Redis实现的延迟队列服务](https://github.com/ouqiang/delay-queue)
+  * 参考[有赞延迟队列设计](http://tech.youzan.com/queuing_delay)实现
+* `ouqiang/gocron` [Linux定时任务管理系统 使用Go语言开发的轻量级定时任务集中调度和管理系统, 用于替代Linux-crontab](https://github.com/ouqiang/gocron)
+  * [官方文档](https://github.com/ouqiang/gocron/wiki)
+* `JiaoSuInfoSec/JiaoSuInfoSec_T00ls_Win11` [黑客渗透测试工具包 角宿武器库官方发布页面](https://github.com/JiaoSuInfoSec/JiaoSuInfoSec_T00ls_Win11)
+  * https://sites.google.com/view/jiaosuinfo-sec/
 * `iamr0s/InstallerX` [一款安卓应用安装程序 支持Android 5.0~13](https://github.com/iamr0s/InstallerX)
 * `zhaojh329/rtty` [一个Web版的SSH客户端 Web Shell工具](https://github.com/zhaojh329/rtty)
 * `luckjiawei/frpc-desktop` [一个frpc桌面客户端](https://github.com/luckjiawei/frpc-desktop)
@@ -347,12 +361,20 @@
   * [六音自定义音源-v1.2.1-自定义Cookie版本 其实和上面那个里面是一样的现在都是自定义Cookie的版本了](https://www.sixyin.com/10480.html) [蓝奏地址 bznu](https://soso.lanzouw.com/b0fobnkyd#bznu)
   * [六音自己开发的Android音乐软件-Android 五音助手 v2.10.10 正式版(不推荐 还要登录)](https://www.sixyin.com/42.html) [蓝奏地址](https://soso.lanzoux.com/b00nbytqj) [夸克网盘](https://pan.quark.cn/s/d0e801f7ec80#/list/share)
 * `lyswhut/lx-music-desktop` [洛雪音乐-桌面版](https://github.com/lyswhut/lx-music-desktop)
+* `OneCodeMonkey/music-sources` [洛雪音乐-可用的音源收集](https://github.com/OneCodeMonkey/music-sources)
+  * https://github.com/OneCodeMonkey/music-sources/tree/master/js
+* `xy2401128923/lxmusic-music-source` [洛雪音乐-可用的音源收集](https://gitee.com/xy2401128923/lxmusic-music-source)
+  * https://www.123pan.com/s/OF29-UCPxH.html
+  * https://gitee.com/xy2401128923/lxmusic-music-source/releases/download/0.0.2/%E5%90%88%E9%9B%86.zip
 * `maotoumao/MusicFree` [Android版的MusicFree](https://github.com/maotoumao/MusicFree)
   * [官方文档-仓库](https://github.com/maotoumao/musicfree.catcat.work) [文档地址](https://musicfree.catcat.work/)
   * [官方插件-仓库-GitHub](https://github.com/maotoumao/MusicFreePlugins) [官方插件-仓库-Gitee](https://gitee.com/maotoumao/MusicFreePlugins) [官方插件-地址](https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json) [插件使用指南](https://mp.weixin.qq.com/s?__biz=MzkxOTM5MDI4MA==&mid=2247483875&idx=1&sn=aedf8bb909540634d927de7fd2b4b8b1&chksm=c1a390c4f6d419d233908bb781d418c6b9fd2ca82e9e93291e7c93b8ead3c50ca5ae39668212#rd)
 * `qiupo/MusicFree-ios` [ios版本的MusicFree](https://github.com/qiupo/MusicFree-ios)
   * [maotoumao官方IOS打包及开发指南](https://github.com/maotoumao/MusicFree/issues/16)
 * `maotoumao/MusicFreeDesktop` [桌面版的MusicFree](https://github.com/maotoumao/MusicFreeDesktop)
+* `Huibq/keep-alive` [洛雪音乐 MusicFree-可用的音源收集](https://github.com/Huibq/keep-alive)
+  * https://raw.niuma666bet.buzz/Huibq/keep-alive/master/render_api.js
+  * https://raw.niuma666bet.buzz/Huibq/keep-alive/master/Music_Free/myPlugins.json
 * `listen1/listen1` [聚合音乐播放器(已停止维护 迁移到下方新项目)](https://github.com/listen1/listen1)
   * [官方文档-仓库](https://github.com/listen1/listen1/tree/gh-pages) [文档地址](https://listen1.github.io/listen1/)
 * `listen1/listen1_desktop` [Listen1桌面版 一款中国所有平台的免费音乐 (Windows, Mac, Linux desktop)](https://github.com/listen1/listen1_desktop)
