@@ -1,5 +1,6 @@
 * 
-* 
+* `seriousm4x/UpSnap` [网络唤醒服务仪表盘 局域网唤醒工具 远程开机管理](https://github.com/seriousm4x/UpSnap)
+  * [来源 介绍，基础搭建及快速入门](https://mp.weixin.qq.com/s/Kh0ik6ZN32ars2t9E03uSg)
 * `joke2k/faker` [数据造假-python 生成测试数据](https://github.com/joke2k/faker)
   * [官方文档](https://faker.readthedocs.io/)
   * [基本用法教程](https://mp.weixin.qq.com/s/4uxSCxL4VYh45o7PCawWOQ) [基本用法教程1](https://cloud.tencent.com/developer/article/1663417)
@@ -16,12 +17,12 @@
 * `0xJacky/nginx-ui` [高效管理Nginx的图形化界面工具](https://github.com/0xJacky/nginx-ui)
   * [官方文档](https://nginxui.com/)
   * [示例](https://demo.nginxui.com) admin/admin
-* `DaoCloud/public-image-mirror` [docker国内可用的镜像服务](https://github.com/DaoCloud/public-image-mirror)
+* `DaoCloud/public-image-mirror` [docker国内可用的镜像服务 readme底部还有几个其他的镜像站推荐（[友情链接]加速三剑客）](https://github.com/DaoCloud/public-image-mirror)
 * `hacksider/Deep-Live-Cam` [AI 实时换脸](https://github.com/hacksider/Deep-Live-Cam)
-* `ouqiang/delay-queue` [基于Redis实现的延迟队列服务](https://github.com/ouqiang/delay-queue)
-  * 参考[有赞延迟队列设计](http://tech.youzan.com/queuing_delay)实现
 * `ouqiang/gocron` [Linux定时任务管理系统 使用Go语言开发的轻量级定时任务集中调度和管理系统, 用于替代Linux-crontab](https://github.com/ouqiang/gocron)
   * [官方文档](https://github.com/ouqiang/gocron/wiki)
+* `ouqiang/delay-queue` [基于Redis实现的延迟队列服务](https://github.com/ouqiang/delay-queue)
+  * 参考[有赞延迟队列设计](http://tech.youzan.com/queuing_delay)实现
 * `JiaoSuInfoSec/JiaoSuInfoSec_T00ls_Win11` [黑客渗透测试工具包 角宿武器库官方发布页面](https://github.com/JiaoSuInfoSec/JiaoSuInfoSec_T00ls_Win11)
   * https://sites.google.com/view/jiaosuinfo-sec/
 * `iamr0s/InstallerX` [一款安卓应用安装程序 支持Android 5.0~13](https://github.com/iamr0s/InstallerX)
@@ -227,8 +228,11 @@
 * ⭐`apache/superset` [数据报表 BI工具 Apache开源的数据可视化和数据图表分析平台 日报、报表](https://github.com/apache/superset)
   * https://superset.apache.org/
   * [尾部含其他报表平台推荐 还有什么时候使用Grafana的说明](https://zhuanlan.zhihu.com/p/37507235)
-* `metabase/metabase` [数据报表 Metabase BI工具](https://github.com/metabase/metabase)
+* ⭐`metabase/metabase` [数据报表 Metabase BI工具](https://github.com/metabase/metabase)
   * https://metabase.com/
+* `getredash/redash` [数据报表 BI工具 数据可视化](https://github.com/getredash/redash)
+  * [官网](https://redash.io/)
+  * [官方文档](https://redash.io/help/open-source/setup/)
 * `dataease/dataease` [报表工具 BI工具 人人可用的开源BI 数据可视化分析工具  Tableau、帆软的开源替代](https://github.com/dataease/dataease)
   * https://dataease.io/
 * `709343767/phoenix` [当作Maven模块引入项目的监控平台系统 开源监控平台，主要用于监控应用程序、日志、服务器、数据库、网络、tcp端口和http接口，通过实时收集、汇聚和分析监控信息](https://github.com/709343767/phoenix)
