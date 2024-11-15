@@ -13,7 +13,7 @@
 * `OpenTalker/video-retalking` [AI 唇形同步根据音频生成视频 数字人](https://github.com/OpenTalker/video-retalking)
   * [官网](https://opentalker.github.io/video-retalking/)
 * `http-party/http-server` [一个简单的零配置命令行http服务器](https://github.com/http-party/http-server)
-* `dokku/dokku` [基于 Docker 实现的 PaaS(支持多种编程语言的云平台即服务)系统 轻量微小的Heroku 应用部署管理运维平台，可能类似k8s，宝塔等面板之类，用于快速构建管理部署应用的 号称最小的PaaS实现](https://github.com/dokku/dokku)
+* `dokku/dokku` [基于 Docker 实现的 PaaS(支持多种编程语言的云平台即服务)系统 微型的Heroku 应用部署管理运维平台，可能类似k8s，宝塔等面板之类，用于快速构建管理部署应用的 号称最小的PaaS实现](https://github.com/dokku/dokku)
   * [官网](https://dokku.com/)
   * [介绍及简单教程](https://jinhucheung.github.io/2020/05/24/17_dokku__build_your_own_paas/)
 * `Laomai-codefee/pdfjs-annotation-extension` [pdf.js的扩展插件 一个基于PDF.js查看器的注释扩展。支持编辑现有的PDF文件注释，发布评论、回复、提交注释数据，并加载进一步编辑](https://github.com/Laomai-codefee/pdfjs-annotation-extension)
