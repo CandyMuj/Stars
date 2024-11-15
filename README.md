@@ -7,6 +7,22 @@
 * `` []()
 * `` []()
 * `` []()
+* `` []()
+* `TMElyralab/MuseTalk` [AI 实时高质量的唇形同步 数字人](https://github.com/TMElyralab/MuseTalk)
+* `anliyuan/Ultralight-Digital-Human` [AI 一个超轻量级、可以在移动端实时运行的数字人模型 "一个能在移动设备上实时运行的数字人模型,据我所知，这应该是第一个开源的如此轻量级的数字人模型"](https://github.com/anliyuan/Ultralight-Digital-Human)
+* `OpenTalker/video-retalking` [AI 唇形同步根据音频生成视频 数字人](https://github.com/OpenTalker/video-retalking)
+  * [官网](https://opentalker.github.io/video-retalking/)
+* `http-party/http-server` [一个简单的零配置命令行http服务器](https://github.com/http-party/http-server)
+* `dokku/dokku` [基于 Docker 实现的 PaaS(支持多种编程语言的云平台即服务)系统 轻量微小的Heroku 应用部署管理运维平台，可能类似k8s，宝塔等面板之类，用于快速构建管理部署应用的 号称最小的PaaS实现](https://github.com/dokku/dokku)
+  * [官网](https://dokku.com/)
+  * [介绍及简单教程](https://jinhucheung.github.io/2020/05/24/17_dokku__build_your_own_paas/)
+* `Laomai-codefee/pdfjs-annotation-extension` [pdf.js的扩展插件 一个基于PDF.js查看器的注释扩展。支持编辑现有的PDF文件注释，发布评论、回复、提交注释数据，并加载进一步编辑](https://github.com/Laomai-codefee/pdfjs-annotation-extension)
+* `mozilla/pdf.js` [JavaScript中的PDF阅读器](https://github.com/mozilla/pdf.js)
+  * [官网](https://mozilla.github.io/pdf.js/)
+  * [示例](https://mozilla.github.io/pdf.js/web/viewer.html)
+* `navidrome/navidrome` [全功能的开源音乐服务器应用 您的个人流媒体服务](https://github.com/navidrome/navidrome)
+  * [官网](https://www.navidrome.org/)
+* `Super-Badmen-Viper/NSMusicS` [多模态本地音乐播放器 九歌云本地音乐服务器 全平台客户端 支持服务器模式navidrome、jellyfin、emby](https://github.com/Super-Badmen-Viper/NSMusicS)
 * `abgox/InputTip` [一个输入法状态(中文/英文/大写锁定)实时提示工具](https://github.com/abgox/InputTip)
   * [官网](https://inputtip.pages.dev/)
   * [来源 两款 Windows 小工具，解决了无数人多年痛点！](https://mp.weixin.qq.com/s/RbohlvpgaW18Xd1IWCE-Pw)
@@ -66,6 +82,11 @@
 * `nextauthjs/next-auth` [JS中用于添加身份验证，网络身份验证 用于登录、注销相关功能](https://github.com/nextauthjs/next-auth)
   * [官网](https://authjs.dev/) [官网1](https://next-auth.js.org/)
   * [使用示例 含身份验证(Authentication)和授权(Authorization)的区别](https://qufei1993.github.io/nextjs-learn-cn/chapter15) [其中的官方文档](https://authjs.dev/reference/nextjs)
+* `HalseySpicy/Geeker-Admin` [开发框架 似乎没后端 Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架](https://github.com/HalseySpicy/Geeker-Admin)
+  * [官网](https://docs.spicyboy.cn/) [官方文档](https://docs.spicyboy.cn/guide/)
+  * [示例](https://admin.spicyboy.cn/)
+* `HalseySpicy/Hooks-Admin` [开发框架 似乎没后端,也没文档 Hooks Admin，基于 React18、React-Router V6、React-Hooks、Redux、TypeScript、Vite2、Ant-Design 开源的一套后台管理框架](https://github.com/HalseySpicy/Hooks-Admin)
+  * [示例](https://pro.spicyboy.cn/)
 * `feiyuchuixue/sz-admin` [开发框架 Sz-Admin 的前端仓库，Vue3 + TypeScript + Vite5](https://github.com/feiyuchuixue/sz-admin)
   * [官网](https://szadmin.cn/) [官方文档](https://szadmin.cn/md/Help/doc/start.html)
   * [示例](https://preview.szadmin.cn/)
@@ -403,6 +424,14 @@
   * https://www.bilibili.com/video/BV19U411d7QG
 * `sfvsfv/sensitive_words` [互联网敏感词，敏感词检测系统](https://github.com/sfvsfv/sensitive_words)
 * `tencent-ailab/v-express` [AI腾讯 一键生成逼真口型视频，一张图片、一段音频和一些列V-Kps(视频关键点)图像来生成逼真的口型视频](https://github.com/tencent-ailab/v-express)
+* `2noise/ChatTTS` [一种用于日常对话的生成式语音模型 语音合成](https://github.com/2noise/ChatTTS)
+  * [官网](https://2noise.com/)
+* `libukai/Awesome-ChatTTS` [官方推荐的 ChatTTS 资源汇总项目，整理了全网相关资源和常见问题](https://github.com/libukai/Awesome-ChatTTS)
+  * [官网](https://aikebang.net/doc)
+* `6drf21e/ChatTTS_colab` [一键部署（含离线整合包）！基于 ChatTTS ，支持流式输出、音色抽卡、长音频生成和分角色朗读。简单易用，无需复杂安装](https://github.com/6drf21e/ChatTTS_colab)
+  * [下载地址-Huggingface](https://huggingface.co/taa/ChatTTS_colab/tree/main) [下载地址-百度网盘](https://pan.baidu.com/s/1-hGiPLs6ORM8sZv0xTdxFA?pwd=h3c5) [下载地址-夸克网盘](https://pan.quark.cn/s/c963e147f204) [下载地址-123盘](https://www.123pan.com/s/Fto1jv-CjUI.html)
+* `6drf21e/ChatTTS_Speaker` [ChatTTS 2000条音色稳定性打分🥇+区分男女年龄👧+在线试听🔈](https://github.com/6drf21e/ChatTTS_Speaker)
+  * [体验地址-魔搭社区](https://modelscope.cn/studios/ttwwwaa/ChatTTS_Speaker) [体验地址-HuggingFace](https://huggingface.co/spaces/taa/ChatTTS_Speaker)
 * `jianchang512/zh_recogn` [将音频或视频中的中文语音识别并导出为srt字幕，基于魔塔社区Paraformer模型](https://github.com/jianchang512/zh_recogn)
 * `jianchang512/stt` [一个离线运行的本地语音识别转文字服务，输出json、srt字幕带时间戳、纯文字格式](https://github.com/jianchang512/stt)
 * `jianchang512/vocal-separate` [这是一个极简的人声和背景音乐分离工具，本地化网页操作，无需连接外网](https://github.com/jianchang512/vocal-separate)
@@ -703,9 +732,11 @@
   * [官方文档](https://doc.samwaf.com/)
   * [来源 SamWAF试用和绕过](https://mp.weixin.qq.com/s/7ltPWuL41tJajrCXBm-hPQ)
 * `fanmingming/live` [EPG服务 一个可直连访问的电视/广播图标库与相关工具项目，支持IPv4/IPv6双栈访问](https://github.com/fanmingming/live)
+  
   * https://live.fanmingming.com/
 * `pjialin/py12306` [🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理](https://github.com/pjialin/py12306)
-* `documenso/documenso` [文档手写签名，签字服务](https://github.com/documenso/documenso)
+* `documenso/documenso` [文档手写签名，签字服务 开源电子签章平台](https://github.com/documenso/documenso)
+  
   * https://documenso.com/
 * `chenfei-wu/TaskMatrix` [多任务处理模型，TaskMatrix连接了ChatGPT和一系列视觉基础模型，以便在聊天期间发送和接收图像。](https://github.com/chenfei-wu/TaskMatrix)
 * `s0md3v/roop` [面部替换 AI一键换脸(支持图片和视频)](https://github.com/s0md3v/roop)
@@ -846,6 +877,7 @@
 * `Cenmrev/V2RayX` [V2Ray macOS版](https://github.com/Cenmrev/V2RayX)
 * `getActivity/XXPermissions` [Android 权限请求框架，已适配 Android 14](https://github.com/getActivity/XXPermissions)
 * `dromara/sa-token` [一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...](https://gitee.com/dromara/sa-token) [GitHub](https://github.com/dromara/Sa-Token)
+  
   * https://sa-token.cc/
 * `dianping/cat` [CAT 是基于 Java 开发的实时应用监控平台，为美团点评提供了全面的实时监控告警服务。](https://github.com/dianping/cat)
 * `javahuang/surveyking` [功能最强大的调查问卷系统和考试系统](https://github.com/javahuang/surveyking)
@@ -1117,6 +1149,7 @@
   * https://wiredjs.com/
 * `RelaxedJS/ReLaXed` [使用web技术创建PDF文档](https://github.com/RelaxedJS/ReLaXed)
 * `iamkun/dayjs` [轻量的处理时间和日期的 JavaScript 库，和 Moment.js 的 API 设计保持完全一样. 如果您曾经用过 Moment.js, 那么您已经知道如何使用 Day.js](https://github.com/iamkun/dayjs)
+  
   * https://dayjs.gitee.io/zh-CN/
 * `fullcalendar/fullcalendar` [JavaScript日历框架 全尺寸拖放事件日历](https://github.com/fullcalendar/fullcalendar)
   * https://fullcalendar.io/
