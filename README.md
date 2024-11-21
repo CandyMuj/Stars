@@ -188,6 +188,8 @@
 * `aizuda/snail-job` [分布式定时任务调度平台](https://gitee.com/aizuda/snail-job)
   * [官网](https://snailjob.opensnail.com/) [官方文档](https://snailjob.opensnail.com/docs/introduce/preface.html)
   * [来源 及基本介绍及简单用法](https://mp.weixin.qq.com/s/jBFSvtZe0LsuVDAYo0O7UQ)
+* `ccfos/nightingale` [夜莺云原生监控系统](https://github.com/ccfos/nightingale)
+  * [主页](https://n9e.github.io/zh/) [官方文档](https://flashcat.cloud/docs/)
 * `netdata/netdata` [实时监控系统 与普罗米修斯(Prometheus)为竞品](https://github.com/netdata/netdata)
 * `protocolbuffers/protobuf` [序列化语言 来自Google](https://github.com/protocolbuffers/protobuf)
   * http://protobuf.dev/
