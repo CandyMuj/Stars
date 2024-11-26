@@ -737,11 +737,9 @@
   * [官方文档](https://doc.samwaf.com/)
   * [来源 SamWAF试用和绕过](https://mp.weixin.qq.com/s/7ltPWuL41tJajrCXBm-hPQ)
 * `fanmingming/live` [EPG服务 一个可直连访问的电视/广播图标库与相关工具项目，支持IPv4/IPv6双栈访问](https://github.com/fanmingming/live)
-  
   * https://live.fanmingming.com/
 * `pjialin/py12306` [🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理](https://github.com/pjialin/py12306)
 * `documenso/documenso` [文档手写签名，签字服务 开源电子签章平台](https://github.com/documenso/documenso)
-  
   * https://documenso.com/
 * `chenfei-wu/TaskMatrix` [多任务处理模型，TaskMatrix连接了ChatGPT和一系列视觉基础模型，以便在聊天期间发送和接收图像。](https://github.com/chenfei-wu/TaskMatrix)
 * `s0md3v/roop` [面部替换 AI一键换脸(支持图片和视频)](https://github.com/s0md3v/roop)
@@ -1153,7 +1151,6 @@
   * https://wiredjs.com/
 * `RelaxedJS/ReLaXed` [使用web技术创建PDF文档](https://github.com/RelaxedJS/ReLaXed)
 * `iamkun/dayjs` [轻量的处理时间和日期的 JavaScript 库，和 Moment.js 的 API 设计保持完全一样. 如果您曾经用过 Moment.js, 那么您已经知道如何使用 Day.js](https://github.com/iamkun/dayjs)
-  
   * https://dayjs.gitee.io/zh-CN/
 * `fullcalendar/fullcalendar` [JavaScript日历框架 全尺寸拖放事件日历](https://github.com/fullcalendar/fullcalendar)
   * https://fullcalendar.io/
