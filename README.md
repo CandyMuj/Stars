@@ -882,7 +882,6 @@
 * `Cenmrev/V2RayX` [V2Ray macOS版](https://github.com/Cenmrev/V2RayX)
 * `getActivity/XXPermissions` [Android 权限请求框架，已适配 Android 14](https://github.com/getActivity/XXPermissions)
 * `dromara/sa-token` [一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...](https://gitee.com/dromara/sa-token) [GitHub](https://github.com/dromara/Sa-Token)
-  
   * https://sa-token.cc/
 * `dianping/cat` [CAT 是基于 Java 开发的实时应用监控平台，为美团点评提供了全面的实时监控告警服务。](https://github.com/dianping/cat)
 * `javahuang/surveyking` [功能最强大的调查问卷系统和考试系统](https://github.com/javahuang/surveyking)
