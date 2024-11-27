@@ -544,6 +544,7 @@
 * `fast-crud/fast-crud` [基于Vue3的快速CRUD低代码基础框架](https://github.com/fast-crud/fast-crud)
 * `airbytehq/airbyte` [数据同步工具](https://github.com/airbytehq/airbyte)
 * `ionuttbara/windows-defender-remover` [移除Windows Defender](https://github.com/ionuttbara/windows-defender-remover)
+  * [危险！！！不推荐使用此工具 可能造成系统某些奇奇怪怪的问题，详见此链接底部的评论   推荐使用 `Windows轻松设置`](https://www.mefcl.com/defenderremover.html)
 * `binary-husky/gpt_academic` [中科院学术GPT](https://github.com/binary-husky/gpt_academic)
 * `rubickCenter/rubick` [类似Utools的一个开源版工具](https://github.com/rubickCenter/rubick)
 * `chenyl8848/great-open-source-project` [GitHub开源项目收集](https://github.com/chenyl8848/great-open-source-project)
