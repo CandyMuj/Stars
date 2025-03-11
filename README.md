@@ -6,10 +6,8 @@
   * []()
 * `` []()
   * []()
-* `` []()
-  * []()
-* `` []()
-  * []()
+* `upscayl/upscayl` [利用AI无损放大图片 清晰图片](https://github.com/upscayl/upscayl)
+  * [官网](https://upscayl.org/)
 * `Dokploy/dokploy` [自托管的PaaS平台 类似Heroku](https://github.com/Dokploy/dokploy)
   * [官网](https://dokploy.com/) [官方文档](https://docs.dokploy.com/)
   * [来源 11k star！接私活也能效率爆表，秒杀宝塔！实现项目部署秒上线，省时省力还不花钱的开源神器](https://mp.weixin.qq.com/s/xaxgueHuWLgKEmeme2jflw)
@@ -532,7 +530,9 @@
   * https://env-00jxgas7e2fy-static.normal.cloudstatic.cn/face-api-demo-vue/index.html#/
 * `yang-jia-liang/face-api.js` [AI人脸识别jsapi 在vue中的使用](https://github.com/yang-jia-liang/face-api.js)
   * https://yang-jia-liang.github.io/face-api.js/
-* `dyang886/Game-Cheats-Manager` [游戏修改器集合 风灵月影与 WeMod 为 pc 单机游戏修改器，本软件旨在提供一站式下载与管理，方便广大玩家使用](https://github.com/dyang886/Game-Cheats-Manager)
+* `dyang886/Game-Cheats-Manager` [游戏外挂管理器 风灵月影管理器 游戏修改器集合 风灵月影与 WeMod 为 pc 单机游戏修改器，本软件旨在提供一站式下载与管理，方便广大玩家使用](https://github.com/dyang886/Game-Cheats-Manager)
+  * [B站视频 【软件下载教程】适用于风灵月影管理器，游戏存档管理器等](https://www.bilibili.com/video/BV1FbfjYNEV9)
+* `dyang886/Game-Save-Manager` [游戏存档管理器](https://github.com/dyang886/Game-Save-Manager)
 * `Stirling-Tools/Stirling-PDF` [PDF编辑 查看等各种PDF操作的WEB程序](https://github.com/Stirling-Tools/Stirling-PDF)
   * https://stirlingtools.com/
 * ⭐`apache/superset` [数据报表 BI工具 Apache开源的数据可视化和数据图表分析平台 日报、报表](https://github.com/apache/superset)
