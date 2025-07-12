@@ -242,7 +242,7 @@
   * [官网](https://min.io/download)
 * `hacklcx/HFish` [安全、可靠、简单、免费的企业级蜜罐 网络攻击监控、防御](https://github.com/hacklcx/HFish)
   * [官网&文档](https://hfish.net/)
-* `usual2970/certimate` [开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期](https://github.com/usual2970/certimate)
+* `usual2970/certimate` [开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期](https://github.com/usual2970/certimate) [新仓库](https://github.com/certimate-go/certimate)
   * [官网&文档](https://docs.certimate.me/)
 * `certd/certd` [SSL证书管理工具 流水线证书管理工具](https://github.com/certd/certd)
   * [官网](https://certd.docmirror.cn/)
